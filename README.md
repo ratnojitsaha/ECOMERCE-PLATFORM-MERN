@@ -1,5 +1,30 @@
-# ecommerce-app-2023
-complete mern stack ecommerce project 2023 complete code
-# Please check branches source code is video no wise 
-## here is project playlist : https://youtube.com/playlist?list=PLuHGmgpyHfRzhGkSUfY0vpi67X64g0mXB
-## please like subscribe and share TechinfoYT youtube chaannel
+###### PLEASE TAKE 2 MINS AND READ THIS FILE ########
+
+# PLEASE CHANGE THE SUITABLE THINGS TO RUN THIS ECOMMERCE PLATFORM
+
+# CREATE DATABASE USING MongoDB and do the respective changes related to the 
+MongoDB such as URLs and others
+
+# install required things to run this platform (see video).
+
+# FEEL FREE TO ENHANCE THE UI OF THE PLATFORM , ADD NEW FEATURES NO MATTER HOW YOU MAKE IT
+
+# PLEASE CONTACT EACH OTHER IF YOU FACE ANY ISSUE.
+
+# INSTALL GITHUB DESKTOP AND GIT
+
+# 1. FORK THE REPOSITORY IN YOUR GITHUB
+# 2. CLONE THE FORKED REPOSITORY IN YOUR SYSTEM
+# 3. OPEN IN VS CODE AND MAKE CHANGES.
+# 4. SAVE AND UPDATE AND COMMENT WHEN DONE
+# 5. PUSH THE CHANGES
+# 6. CLICK COMPARE AND PULL REQUEST.
+# 7. RESOLVE THE MERGE CONFLICT THAT OCCURS (ONLY IF IT IS SHOWING).
+
+
+
+
+# BEST OF LUCK AND THANKS IN ADVANCE FOR YOUR CONTRIBUTIONS !!
+
+
+# NOTE : THIS README FILE SHOULD BE CHANGED BEFORE FINAL SUBMISSION
